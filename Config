@@ -1,10 +1,10 @@
 import os
 
 class Config(object):
-    API_ID = int(6435225) #dont change
+    API_ID = int(25812247) #dont change
     API_HASH = "4e984ea35f854762dcde906dce426c2d" #dont change 
-    BOT_TOKEN = "" #fill your telegram bot token
-    STRING_SESSION = "" #an Telethon Session 
+    BOT_TOKEN = "6771845775:AAGCpeoqDXh-b56IPKjDhh_m90gPqftD1k0" #fill your telegram bot token
+    STRING_SESSION = "BQCU7IDPsFxE0kvPPVhAQU-j0CmTnxe8Zv4nZrM1UK3DOir-22wKIs0d6BnFZEo6TmcBC6Mlb9vavO_ErrO6eof1YVHNVjk6dms3SqIFQ4GTMqM4ooO5hIlVwN6nJsXGQ2d5Ndx8nS_jusLUJAexH7Oke2EP-GrOii3zQI7asaMwHHyUIpNPDMk_p3xMe3dHOAvbvOFw1FbfBZP3YIOxT02fyryDjA_fbiQXd9LYoX-rU5wT9T_lhAqzosDvpCn-bJFylIfOWNhv_1kcaFEoCHjvff6kbkAlbv-rnubwuMDA0hS3zZqTm9xrmPcbiUU2Ui_87iq9fTvF2Sh9iHAZV8PmAAAAAYqPAugA" #an Telethon Session 
     MANAGEMENT_MODE = None #Dont change
     HEROKU_MODE = None #dont change
     BOT_USERNAME = "Zaid2_Robot" #Your Bot username 
